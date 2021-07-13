@@ -10,6 +10,9 @@ public class LIanxi {
 
     public static void main(String[] args) {
 
-        System.out.println(di(2));
+        String x ="111";
+        System.out.println(x);
+        x ="2222";
+        System.out.println(x);
     }
 }
